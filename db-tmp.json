@@ -1,0 +1,22 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Carpacio de boeuf citron et parmesan",
+      "price": 12,
+      "type": "starter"
+    },
+    {
+      "id": 2,
+      "name": "Onglets aux échalottes",
+      "price": 18,
+      "type": "main"
+    },
+    {
+      "id": 3,
+      "name": "Fondant aux trois chocolats",
+      "price": 12,
+      "type": "dessert"
+    }
+  ]
+}
